@@ -1,6 +1,6 @@
-# API VENDAS
+# API CRM
 
-O Objetivo desta API é consultar, incluir e deletar informações referente ao controle de vendas de mercadoria de uma determinada loja.
+O Objetivo desta API é consultar, incluir e deletar informações referentes ao controle de clientes de uma empresa.
 
 ---
 ## Como executar 
